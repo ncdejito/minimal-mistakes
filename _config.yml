@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : 
 title_separator          : "-"
-name                     : "Nico Dejito"
-description              : "It works!!"
+name                     : "Cholo Dejito"
+description              : "Robots are interesting"
 url                      : "https://ncdejito.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Cholo Dejito"
   avatar           : "/images/why.jpg"
-  bio              : "Let's do it!!"
+  bio              : "Robots are interesting."
   location         : "BGC, Philippines"
-  email            :
+  email            : "ncdejito@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ncdejito"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@cholodejito"
   vine             :
   weibo            :
   xing             :
